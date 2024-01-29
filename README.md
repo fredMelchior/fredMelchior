@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I'm also a musician 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fredMelchior&show_icons=true&count_private=true&hide=prs,issues,contribs)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fredMelchior)
 
-## 🛠 Habilidades
+## 🛠 Skills
 Javascript, Typescript, HTML, CSS, SCSS, SASS, LESS, Bootstrap, React.js, Vue.js, Angular, Python, Flask, Django, MongoDB, SQLAlchemy
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fredMelchior)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://frederico-melchior.vercel.app/)
