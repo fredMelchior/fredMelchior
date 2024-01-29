@@ -11,6 +11,8 @@
 
 ## 🛠 Skills
 Javascript, Typescript, HTML, CSS, SCSS, SASS, LESS, Bootstrap, React.js, Vue.js, Angular, Python, Flask, Django, MongoDB, SQLAlchemy
+
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fredMelchior)
 
 ## 🔗 Links
