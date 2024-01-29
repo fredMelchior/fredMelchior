@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Fred Melchior!
 
-<!--
-**fredMelchior/fredMelchior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a freelance Full Stack Web Developer
+- 🌱 I am currently pursuing a degree in Computer Science at Estácio
+- 👯 I’m looking to collaborate on Mobile Apps, E-commerce and Software Development
+- 💬 Ask me about Front End, Django and React 
+- 📫 How to reach me: frederico.melchior@gmail.com
+- ⚡ Fun fact: I'm also a musician 
 
-Here are some ideas to get you started:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fredMelchior&show_icons=true&count_private=true&hide=prs,issues,contribs)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fredMelchior)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+Javascript, Typescript, HTML, CSS, SCSS, SASS, LESS, Bootstrap, React.js, Vue.js, Angular, Python, Flask, Django, MongoDB, SQLAlchemy
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://frederico-melchior.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frederico-melchior/)
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white )](https://youtube.com/@fredMelchior?si=0_dbbKBDTfkIS8Fv)
